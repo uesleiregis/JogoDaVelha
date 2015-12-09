@@ -1,3 +1,2 @@
-# JogoDaVelha
-Projeto ParadÃ­gmas - 2015.2
-Teste
+Alunos Wilson Felinto Praxedes Ueslei Regis da Costa Marques  Marcelo de Lima Queiroz
+Jogo da velha na opção multiplayer. O projeto apresentado, é um jogo da velha com a opção de mudança de número de jogadores e regras.
